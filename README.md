@@ -1,17 +1,17 @@
 # Hi there, I'm Adel Samir! 👋
 
-I'm a passionate **Computer Science Student** in my first year, focusing on building strong foundations in software development and problem-solving.
+I'm a passionate **Computer Science Student** at Taiz University, currently in my first year, focusing on building strong foundational skills in software development and logic.
 
 ## 🚀 About Me
-- 🎓 First-year Computer Science university student.
-- 💻 Currently mastering **C++**, focusing on Object-Oriented Programming (OOP), classes, inheritance, and pointers.
-- 🎯 Working through the Abu-Hadhoud programming roadmap to build real-world engineering skills.
-- ♟️ Fun fact: I love studying tactical chess concepts (like pinning and defensive structures) and following world champions' history!
+- 🎓 First-year Computer Science student at **Taiz University**.
+- 💻 Currently mastering **C++ foundational concepts** (Variables, Control Flow, Functions, Arrays, and Structures).
+- 🎯 strictly following the **Mohammed Abu-Hadhoud programming roadmap** (Currently in Course 6: Introduction to C++ - Part 2) to build a rock-solid engineering foundation.
+- 🛠️ Focused on solving problem-solving challenges and sharpening logical thinking.
 
-## 🛠️ Skills & Qualifications
-- **Programming Languages:** C++ (OOP, Pointers, Class-based architecture)
-- **Certificates:** International Computer Driving License (ICDL) | English Language Diploma
-- **Tools:** Visual Studio 2022, Git & GitHub
+## 🛠️ Skills & Tools
+- **Programming Languages:** C++ (Foundations & Problem Solving)
+- **Certificates & Qualifications:** International Computer Driving License (ICDL) | English Language Diploma
+- **Tools & Environments:** Visual Studio 2022, Git & GitHub
 
 ## 📬 Connect with me
 - 💼 [LinkedIn](https://linkedin.com)
